@@ -1,7 +1,6 @@
 # Zotero
-======
 
-[![Build Status](https://travis-ci.org/zotero/zotero.svg?branch=master)](https://travis-ci.org/zotero/zotero)
+======
 
 [Zotero](https://www.zotero.org/) is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 
